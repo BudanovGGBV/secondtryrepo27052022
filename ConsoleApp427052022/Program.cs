@@ -10,6 +10,7 @@ namespace ConsoleApp427052022
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
         }
     }
 }
