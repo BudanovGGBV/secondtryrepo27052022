@@ -12,7 +12,8 @@ namespace ConsoleApp427052022
         {
             Console.WriteLine("hello world");
             //123
-            /321
+            //321
+            //789
         }
     }
 }
